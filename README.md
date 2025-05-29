@@ -8,6 +8,22 @@ This project is a hybrid AI anomaly detector designed for use by Part 135 charte
 The system uses a DHT11 sensor for data collection, an AI-inspired adaptive algorithm for anomaly detection, and a 16x2 LCD for clear status display. It is optimized for rapid pre-flight checks and can be easily extended for broader operational use.
 
 ---
+## System Screenshots
+
+**Normal Operation:**
+![System Stable](media/systems_stable.jpg)
+
+**Anomaly Detected:**
+![Anomaly Alert](media/anamoly_alert.jpg)
+
+---
+
+## Demo Videos
+
+Videos demonstrating the system in action are stored in the `/media/` folder:
+
+- [Humidity Spike Alert Demo](media/video_humidity_spike.mov)
+- [Max Threshold Alert Demo](media/video_max_threshold.mov)
 
 ## Features
 
