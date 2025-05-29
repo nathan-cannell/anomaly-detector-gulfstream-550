@@ -10,12 +10,8 @@ The system uses a DHT11 sensor for data collection, an AI-inspired adaptive algo
 ---
 ## System Screenshots
 
-**Normal Operation:**
-![System Stable](media/systems_stable.jpg)
-
-**Anomaly Detected:**
-![Anomaly Alert](media/anamoly_alert.jpg)
-
+<img src="media/systems_stable.jpg" alt="System Stable" width="320"/>
+<img src="media/anamoly_alert.jpg" alt="Anomaly Alert" width="320"/>
 ---
 
 ## Demo Videos
