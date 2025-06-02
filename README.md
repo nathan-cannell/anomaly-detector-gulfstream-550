@@ -120,10 +120,7 @@ K (LED-)    GND
 
 ## Author
 
-Nathan (Software Engineering Intern Application)  
+Nathan
 May 2025
 
 ---
-
-Thank you for reviewing my submission!  
-I welcome any feedback or questions about the implementation or design choices.
